@@ -21,7 +21,7 @@ $(document).ready(function() {
     });
 
     $('.topBar-GetBaron').on('click', function() {
-        window.open("https://discordapp.com/oauth2/authorize?client_id=435392018693488641&scope=bot&permissions=2146958591", '_blank');
+        window.open("https://discordapp.com/api/oauth2/authorize?client_id=556088251736260611&permissions=8&scope=bot", '_blank');
     });
 
     $(".topBar-Commands").click(function() {
